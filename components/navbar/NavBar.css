@@ -1,0 +1,7 @@
+.nav-main{
+    position: absolute;
+    background-color: white;
+    width: 5vw;
+    height: 100vh;
+    z-index: 10;
+}
